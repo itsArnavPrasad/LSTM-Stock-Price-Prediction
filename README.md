@@ -1,6 +1,6 @@
 # LSTM-Stock-Price-Prediction, Time Series Prediction with Deep Learning
 
-This project explores different deep learning models for predicting the next day's stock/financial time series values. The models implemented include **Baseline LSTM**, **Stacked LSTM**, **GRU**, and **1D CNN**. Each model is trained on a sliding window of past observations to forecast the next value.
+This project explores different deep learning models for predicting the next day's stock/financial time series values for AAPL stock. The models implemented include **Baseline LSTM**, **Stacked LSTM**, **GRU**, and **1D CNN**. Each model is trained on a sliding window of past observations to forecast the next value.
 
 ---
 
